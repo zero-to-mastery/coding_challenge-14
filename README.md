@@ -15,6 +15,8 @@ You can use whatever template you want, but I recommend using the **Animal Emoji
 Optional:
 - High Score Leaderboard
 
+This is how the game board should look like (but you can design it however you like):
+
 ![matching game](https://camo.githubusercontent.com/44fa9b920c0b9afcad70b67fd92a3cafa84b5963/68747470733a2f2f636f64656d756e6b65652e6769746875622e696f2f6d617463682f696d672f73637265656e73686f74312e706e67)
 
 **In an upcoming challenge we are going to be doing something really interesting where we turn what you create here into a multiplayer game... but that will come later in a future coding challenge."**
