@@ -34,3 +34,68 @@ The bot will listen for the command and will submit the link you provided in the
 3. Use whatever tools you have as developers (google, friends, Discord, programming buddy etc...) but I will not be offering any help with this challenge. Just like a developer, you must solve a problem and build something that will be challenging. Nobody will hold your hand during the job so we want to experience that by figuring it all out on your own with your team. 
 
 *** **Please note: As with all my challenges there is zero benefit or monetary gain I receive from it. This is just my way of thanking my students and making sure that you are able to continue gaining valuable knowledge outside of just my videos. It would mean a lot to me if you are able to rate my course...5 star reviews make my day :)**
+
+# Submissions
+#### geelie#5864
+- [Github Repo](https://github.com/GlynL/coding_challenge-14)
+- [Game Demo](https://www.glynlewington.com/guessing-game/)
+
+#### roopabdr#4125
+- [Github Repo](https://github.com/roopabdr/coding_challenge-14)
+- [Game Demo](http://htmlpreview.github.io/?https://github.com/roopabdr/coding_challenge-14/blob/master/index.html)
+
+### Jaroslav Huss#4614
+- [Github Repo](https://github.com/jaroslavhuss/codingchallange14)
+- [Game Demo](https://dazzling-jackson-163a4f.netlify.com/)
+
+### Parca#4465
+- [Github Repo](https://github.com/uhayon/coding_challenge-14)
+- [Game Demo]()
+
+### alex-kun#9405
+- [Github Repo](https://github.com/Alexgioff/coding_challenge-14/)
+- [Game Demo](https://alexgioff.github.io/coding_challenge-14/)
+
+### sasot#1266
+- [Github Repo](https://github.com/saso78/coding_challenge-14/)
+- [Game Demo](http://htmlpreview.github.io/?https://github.com/saso78/coding_challenge-14/blob/master/index.html)
+
+### masci4#7646
+- [Github Repo](https://github.com/sciortinomrc/matching-game)
+- [Game Demo](http://htmlpreview.github.io/?https://github.com/sciortinomrc/matching-game/blob/master/index.html)
+
+### Belnako#3185
+- [Github Repo](https://github.com/Belnako/coding_challenge-14)
+- [Game Demo](https://belnako.github.io/coding_challenge-14/)
+
+### Dmitri#5647
+- [Github Repo](https://github.com/Dmitri801/dev-match-challenge14)
+- [Game Demo](https://dmitri801.github.io/dev-match-challenge14/)
+
+### Sergei#1434
+- [Github Repo](https://github.com/kopluspro/Memory-Game)
+- [Game Demo](https://kopluspro.github.io/Memory-Game/)
+
+### Donatron#4502
+- [Github Repo](https://github.com/Donatron/thrones-match)
+- [Game Demo](http://htmlpreview.github.io/?https://github.com/Donatron/thrones-match/blob/master/index.html)
+
+### Maïeul#6749
+- [Github Repo](https://github.com/maieulChevalier/maieulchevalier.github.io/tree/master/coding-challenge-14)
+- [Game Demo](https://maieulchevalier.github.io/coding-challenge-14/)
+
+### Russellicious#4508
+- [Github Repo](https://github.com/RussellSoppe/matchup)
+- [Game Demo](https://russellsoppe.github.io/matchup/)
+
+### arudovwen#3427
+- [Github Repo](https://github.com/arudovwen/memory-match)
+- [Game Demo](https://arudovwen.github.io/memory-match/)
+
+### pillinho_sk#5509
+- [Github Repo](https://github.com/Dromediansk/matching-game-coding-challenge-14)
+- [Game Demo](https://dromediansk.github.io/matching-game-coding-challenge-14/)
+
+### Mattchow#8280
+- [Github Repo](https://github.com/MattCSmith/RoboMatch-Frontend)
+- [Game Demo](https://mattcsmith.github.io/RoboMatch-Frontend/)
