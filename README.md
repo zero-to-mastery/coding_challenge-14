@@ -100,10 +100,10 @@ The bot will listen for the command and will submit the link you provided in the
 - [Github Repo](https://github.com/MattCSmith/RoboMatch-Frontend)
 - [Game Demo](https://mattcsmith.github.io/RoboMatch-Frontend/)
 
-## The24thDS#6523
+### The24thDS#6523
 - [Github Repo](https://github.com/The24thDS/memory-game)
 - [Game Demo](https://the24thds.github.io/memory-game/)
 
-## Ser#9716
+### Ser#9716
 - [Github Repo](https://github.com/serstyle/code-challenge-14/)
 - [Game Demo](https://serstyle.github.io/code-challenge-14/)
