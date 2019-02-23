@@ -50,7 +50,7 @@ The bot will listen for the command and will submit the link you provided in the
 
 ### Parca#4465
 - [Github Repo](https://github.com/uhayon/coding_challenge-14)
-- [Game Demo]()
+- [Game Demo](https://uhayon.github.io/matching-game/)
 
 ### alex-kun#9405
 - [Github Repo](https://github.com/Alexgioff/coding_challenge-14/)
@@ -99,3 +99,11 @@ The bot will listen for the command and will submit the link you provided in the
 ### Mattchow#8280
 - [Github Repo](https://github.com/MattCSmith/RoboMatch-Frontend)
 - [Game Demo](https://mattcsmith.github.io/RoboMatch-Frontend/)
+
+## The24thDS#6523
+- [Github Repo](https://github.com/The24thDS/memory-game)
+- [Game Demo](https://the24thds.github.io/memory-game/)
+
+## Ser#9716
+- [Github Repo](https://github.com/serstyle/code-challenge-14/)
+- [Game Demo](https://serstyle.github.io/code-challenge-14/)
