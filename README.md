@@ -107,3 +107,43 @@ The bot will listen for the command and will submit the link you provided in the
 #### Ser#9716
 - [Github Repo](https://github.com/serstyle/code-challenge-14/)
 - [Game Demo](https://serstyle.github.io/code-challenge-14/)
+
+#### Wolfgang#5359
+- [Github Repo](https://github.com/r4ptos)
+-[Game Demo](https://r4pt0s.github.io/matchingGame/)
+
+####DanielRT#4931
+- [Github Repo](https://github.com/daniriian)
+- [Game Demo](https://daniriian.github.io/MemoryGame/)
+
+#### Dextrous#8737
+- [Github Repo](https://github.com/SsjSanthosh/memoryTiles/)
+- [Game Demo](https://ssjsanthosh.github.io/memoryTiles/)
+
+#### Sniper73#8041
+- [Github Repo](https://github.com/vyper248)
+- [Game Demo](https://vyper248.github.io/coding_challenge-14/)
+
+#### newchar#3140
+- [Github Repo](https://github.com/FamNew/challenge14)
+- [Game Demo](https://famnew.github.io/challenge14/)
+
+#### oghenebrume#8411
+- [Github Repo](https://github.com/Oghenebrume50/Matching-game)
+- [Game Demo](https://chrome.google.com/webstore/detail/matching-game/hhhlbcdjcjeaeckhmegpfchaagpiohok?hl=en-US&authuser=1)
+
+#### carrn7k#8846
+- [Github Repo](https://github.com/carrn7k/coding-challenge-14)
+- [Game Demo](http://htmlpreview.github.io/?https://github.com/carrn7k/coding-challenge-14/blob/master/index.html)
+
+#### Major Kira#9300
+- [Github Repo](https://github.com/majorkira/MatchGame)
+- [Game Demo](https://majorkira.github.io/MatchGame/)
+
+#### thenab#7955
+- [Github Repo](https://github.com/thenab0303/khmatchgame)
+- [Game Demo](https://thenab0303.github.io/khmatchgame/)
+
+#### E.#8741
+- [Github Repo](https://github.com/sterlingwalsh/robofind)
+- [Game Demo](https://sterlingwalsh.github.io/robofind/)
