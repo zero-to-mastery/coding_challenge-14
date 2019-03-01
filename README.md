@@ -110,9 +110,9 @@ The bot will listen for the command and will submit the link you provided in the
 
 #### Wolfgang#5359
 - [Github Repo](https://github.com/r4ptos)
--[Game Demo](https://r4pt0s.github.io/matchingGame/)
+- [Game Demo](https://r4pt0s.github.io/matchingGame/)
 
-####DanielRT#4931
+#### DanielRT#4931
 - [Github Repo](https://github.com/daniriian)
 - [Game Demo](https://daniriian.github.io/MemoryGame/)
 
