@@ -21,8 +21,6 @@ This is how the game board should look like (but you can design it however you l
 
 **In an upcoming challenge we are going to be doing something really interesting where we turn what you create here into a multiplayer game... but that will come later in a future coding challenge."**
 
-## Coding Challenge Submissions
-The wonderful submissions from some of the Zero-to-Mastery students on the foutreenth coding challenge will be posted here at the end of the month!
 
 ## The Rules Are:
 
@@ -35,7 +33,9 @@ The bot will listen for the command and will submit the link you provided in the
 
 *** **Please note: As with all my challenges there is zero benefit or monetary gain I receive from it. This is just my way of thanking my students and making sure that you are able to continue gaining valuable knowledge outside of just my videos. It would mean a lot to me if you are able to rate my course...5 star reviews make my day :)**
 
-# Submissions
+## Coding Challenge Submissions
+The wonderful submissions from some of the Zero-to-Mastery students on the foutreenth coding challenge will be posted here at the end of the month!
+
 #### geelie#5864
 - [Github Repo](https://github.com/GlynL/coding_challenge-14)
 - [Game Demo](https://www.glynlewington.com/guessing-game/)
