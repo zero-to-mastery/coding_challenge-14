@@ -1,4 +1,6 @@
 # coding_challenge-14
+![](https://img.shields.io/badge/Difficulty:%20%20%20-%20%20%20BEGINNER-green.svg?style=for-the-badge)
+![](https://img.shields.io/badge/Powered%20by:%20%20%20-%20%20%20Javascript-yellow.svg?style=for-the-badge&logo=JAVASCRIPT)
 
 This coding challenge is all about **understanding javascript and coding without the help of a library or tool**. It is very easy to get caught up in all of the trendy libraries and tools that allow you to build front end applications. However, by focusing on just a library, you are letting yourself be at the mercy of trends that constantly change. Instead, if you are able to understand the core concepts of javascript, then you aren't as influenced by trends and you can constantly adapt since the underlying language of the web doesn't change very often (these libraries are all written in Javascript afterall!) In this challenge, you are only allowed to use JavaScript to build a game!
 
